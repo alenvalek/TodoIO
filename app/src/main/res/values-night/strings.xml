@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test_text">Test text</string>
+    <string name="add_todo">Add todo</string>
+    <string name="new_todo">New todo..</string>
+</resources>
